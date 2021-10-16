@@ -131,5 +131,4 @@ df[["age","salary"]]
 
 df.columns # column names
 
-git config --global user.email "khongorzul.gantulga@gmail.com"
-git config --global user.name "Khongorzul"
+
