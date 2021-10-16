@@ -84,11 +84,11 @@ df.describe()
 df['age']
 df['firstName']
 
-# iloc
+# iloc #dan too uyd
 df.iloc[2,1]
 df.iloc[2:5,1:3]
 
-# loc
+# loc #index and too holildson uyd
 df.loc[5,"lastName"]
 df.loc[5:8,"lastName"]
 df.loc[5:8,("lastName","firstName")]
